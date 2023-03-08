@@ -31,7 +31,6 @@ Daha sonra aşağıda ki işlemi yapıyoruz
 CompileDaemon -command="./GoApp" <- Daha fazla bilgi; https://github.com/githubnemo/CompileDaemon
 
 
-postgres://lqphhauw:Kto9bNmcWdSSK2ySjZFBxWZIWzWVwC2Z@floppy.db.elephantsql.com/lqphhauw
 
 projeyi başlatmak için; 
 
